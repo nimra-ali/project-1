@@ -11,3 +11,81 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* 
+@media (max-width:700px){
+  button {
+    all: unset;
+    padding: 3 10px;
+    background: var(--red);
+    height: 30px;
+    color: white;
+    font-weight: 300;
+  }
+  nav {
+    display: flex;
+    display: none;
+    /* justify-content: space-between;
+    height: 72px;
+    align-items: center; */
+  /* } */
+  
+  /* nav ul { */
+    /* flex-direction: column; */
+    /* flex-wrap: wrap;
+    display: none;
+  }
+  .hero-btn {
+    margin-left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .hero-btn button{
+    font-size: 20px;
+  }
+  .hero h1 {
+    margin-top: 15px;
+    font-weight: 800;
+    line-height: 60px;
+    font-size: 40px;
+  }
+  
+.secondary-btn {
+background: transparent;
+color: var(--gray);
+border: 1px solid gray;
+}
+.shopping{
+margin-left: 5%;
+}
+.shopping p {
+font-size: 10px;
+margin-bottom: 8px;
+}
+
+  nav li {
+    margin: 0.5em 0;
+  }
+  .hero-content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 36px;
+}
+.hero p {
+  margin-top: 20px;
+  line-height: 20px;
+  font-weight: 600;
+  font-size: 15px;
+  color: var(--gray);
+  max-width: 300px;
+}
+
+.text{
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.hero-image{
+  flex-wrap: wrap;
+}
+} */
