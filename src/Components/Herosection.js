@@ -15,7 +15,7 @@ function Hero (){
         SHOES.
        </p>
        <div className="hero-btn">
-        <button>Shop now</button>
+        <button className="btn-1">Shop now</button>
         <button className="btn-2">Category</button>
     </div>
     <div className="buy">
